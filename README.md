@@ -1,1 +1,6 @@
-# carta-alternative
+# Carta Alternative
+
+## Requirements
+
+- Digital Cap tables
+- TBD
